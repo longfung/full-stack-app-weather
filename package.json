@@ -1,0 +1,31 @@
+{
+  "name": "full-stack-app-weather",
+  "version": "1.0.0",
+  "description": "full stack weather app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/longfung/full-stack-app-weather.git"
+  },
+  "keywords": [
+    "React"
+  ],
+  "author": "TC",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/longfung/full-stack-app-weather/issues"
+  },
+  "homepage": "https://github.com/longfung/full-stack-app-weather#readme",
+  "devDependencies": {
+    "concurrently": "^5.0.2",
+    "nodemon": "^2.0.2"
+  },
+  "dependencies": {
+    "cookie-parser": "^1.4.4",
+    "express": "^4.17.1",
+    "pg": "^7.17.1"
+  }
+}
